@@ -6,7 +6,7 @@
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init F-loat/mpvue-quickstart my-project
+$ vue init HuChundong/mpvue-quickstart my-project
 $ cd my-project
 $ npm install
 $ npm run dev
@@ -26,3 +26,7 @@ $ npm run dev
 
 * [quickstart](http://mpvue.com/mpvue/quickstart)
 * [mpvue-entry](https://github.com/F-loat/mpvue-entry)
+* [import-weapp-component](https://github.com/JJJYY/import-weapp-component)
+* [mpvue-router-patch](https://github.com/F-loat/mpvue-router-patch)
+
+
